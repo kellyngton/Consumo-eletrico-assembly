@@ -1,7 +1,6 @@
-# Consumo eletrico assembly
- Pequena projeto, calculadora de consumo com código de baixo e alto nível 
+# Consumo elétrico assembly
+	
+### introdução
+> A proposta principal desse pequeno projeto é treinar a linguagem **assembly**(controle de memória, armazenamento e o funcionamento básico da linguagem que "mais se aproxima do hardware"), mostrando os diferentes funcionamentos de uma mesma proposta de código. Para isso, foi decido criar uma ferramenta simples e que tenha usabilidade, uma simples calculadora de consumo elétrico.
 
->
-## introdução
-
->> A proposta principal desse pequeno projeto, feito para estágio da disciplina de arquitetura de software 1, da Universidade Federal da Paraíba. 
+[...]
